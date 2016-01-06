@@ -86,6 +86,10 @@ public class Card implements Comparable<Card>{
     public int getValue() {
 		return value;
 	}
+    
+    public String getRank() {
+		return rank;
+	}
 
 	public void setValue(int value) {
 		this.value = value;
