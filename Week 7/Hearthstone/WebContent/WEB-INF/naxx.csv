@@ -1,0 +1,137 @@
+0,Ancestral Healing,Shaman,Spell,Common,0,0,0,images/naxx/Ancestral_Healing.png
+0,Backstab,Rogue,Spell,Common,0,0,0,images/naxx/Backstab.png
+0,Innervate,Druid,Spell,Common,0,0,0,images/naxx/Innervate.png
+0,Hunter's Mark,Hunter,Spell,Common,0,0,0,images/naxx/Hunters_Mark.png
+0,Moonfire,Druid,Spell,Common,0,0,0,images/naxx/Moonfire.png
+0,Sacrificial Pact,Warlock,Spell,Common,0,0,0,images/naxx/Sacrificial_Pact.png
+0,Totemic Might,Shaman,Spell,Common,0,0,0,images/naxx/Totemic_Might.png
+1,Arcane Missiles,Mage,Spell,Common,0,0,0,images/naxx/Arcane_Missiles.png
+1,Arcane Shot,Hunter,Spell,Common,0,0,0,images/naxx/Arcane_Shot.png
+1,Blessing of Might,Paladin,Spell,Common,0,0,0,images/naxx/Blessing_of_Might.png
+1,Claw,Druid,Spell,Common,0,0,0,images/naxx/Claw.png
+1,Deadly Poison,Rogue,Spell,Common,0,0,0,images/naxx/Deadly_Poison.png
+1,Execute,Warrior,Spell,Common,0,0,0,images/naxx/Execute.png
+1,Frost Shock,Shaman,Spell,Common,0,0,0,images/naxx/Frost_Shock.png
+1,Hand of Protection,Paladin,Spell,Common,0,0,0,images/naxx/Hand_of_Protection.png
+1,Holy Smite,Priest,Spell,Common,0,0,0,images/naxx/Holy_Smite.png
+1,Light's Justice,Paladin,Weapon,Common,0,1,4,images/naxx/Lights_Justice.png
+1,Murloc Raider,Neutral,Minion,Common,0,2,1,images/naxx/Murloc_Raider.png
+1,Northshire Cleric,Priest,Minion,Common,0,1,3,images/naxx/Northshire_Cleric.png
+1,Power Word:Shield,Priest,Spell,Common,0,0,0,images/naxx/Power_Word_Shield.png
+1,Rockbiter Weapon,Shaman,Spell,Common,0,0,0,images/naxx/Rockbiter_Weapon.png
+1,Sinister Strike,Rogue,Spell,Common,0,0,0,images/naxx/Sinister_Strike.png
+1,Stonetusk Boar,Neutral,Minion,Common,0,1,1,images/naxx/Stonetusk_Boar.png
+1,Timber Wolf,Hunter,Minion,Common,0,1,1,images/naxx/Timberwolf.png
+1,Tracking,Hunter,Spell,Common,0,0,0,images/naxx/Tracking.png
+1,Voidwalker,Warlock,Minion,Common,0,1,3,images/naxx/Voidwalker.png
+1,Voodoo Doctor,Neutral,Minion,Common,0,2,1,images/naxx/Voodoo_Doctor.png
+1,Corruption,Warlock,Spell,Common,0,0,0,images/naxx/Corruption.png
+1,Elven Archer,Neutral,Minion,Common,0,1,1,images/naxx/Elven_Archer.png
+1,Goldshire Footman,Neutral,Minion,Common,0,1,1,images/naxx/Goldshire_Footman.png
+1,Grimscale Oracle,Neutral,Minion,Common,0,1,1,images/naxx/Grimscale_Oracle.png
+1,Humility,Paladin,Spell,Common,0,0,0,images/naxx/Humility.png
+1,Mind Vision,Priest,Spell,Common,0,0,0,images/naxx/Mind_Vision.png
+1,Mirror Image,Mage,Spell,Common,0,0,0,images/naxx/Mirror_Image.png
+1,Mortal Coil,Warlock,Spell,Common,0,0,0,images/naxx/Mortal_Coil.png
+1,Soulfire,Warlock,Spell,Common,0,0,0,images/naxx/Soulfire.png
+1,Whirlwind,Warrior,Spell,Common,0,0,0,images/naxx/Whirlwind.png
+2,Arcane Explosion,Mage,Spell,Common,0,0,0,images/naxx/Arcane_Explosion.png
+2,Bloodfen Raptor,Neutral,Minion,Common,0,3,2,images/naxx/Bloodfen_Raptor.png
+2,Fiery War Axe,Warrior,Weapon,Common,0,3,2,images/naxx/Fiery_War_Axe.png
+2,Heroic Strike,Warrior,Spell,Common,0,0,0,images/naxx/Heroic_Strike.png
+2,Holy Light,Paladin,Spell,Common,0,0,0,images/naxx/Holy_Light.png
+2,Mark of the Wild,Druid,Spell,Common,0,0,0,images/naxx/Mark_of_the_Wild.png
+2,Mind Blast,Priest,Spell,Common,0,0,0,images/naxx/Mind_Blast.png
+2,Novice Engineer,Neutral,Minion,Common,0,1,1,images/naxx/Novice_Engineer.png
+2,River Crocalisk,Neutral,Minion,Common,0,2,3,images/naxx/River_Crocolisk.png
+2,Sap,Rogue,Spell,Common,0,0,0,images/naxx/Sap.png
+2,Shadow Word:Pain,Priest,Spell,Common,0,0,0,images/naxx/Shadow_Word_Pain.png
+2,Succubus,Warlock,Minion,Common,0,4,3,images/naxx/Succubus.png
+2,Wild Growth,Druid,Spell,Common,0,0,0,images/naxx/Wild_Growth.png
+2,Windfury,Shaman,Spell,Common,0,0,0,images/naxx/Windfury.png
+2,Acidic Swamp Ooze,Neutral,Minion,Common,0,3,2,images/naxx/Acidic_Swamp_Ooze.png
+2,Bluegill Warrior,Neutral,Minion,Common,0,2,1,images/naxx/Bluegill_Warrior.png
+2,Cleave,Warrior,Spell,Common,0,0,0,images/naxx/Cleave.png
+2,Divine Spirit,Priest,Spell,Common,0,0,0,images/naxx/Divine_Spirit.png
+2,Flametongue Totem,Shaman,Minion,Common,0,0,3,images/naxx/Flametongue_Totem.png
+2,Frostbolt,Mage,Spell,Common,0,0,0,images/naxx/Frostbolt.png
+2,Frostwolf Grunt,Neutral,Minion,Common,0,2,2,images/naxx/Frostwolf_Grunt.png
+2,Kobold Geomancer,Neutral,Minion,Common,0,2,2,images/naxx/Kobold_Geomancer.png
+2,Murloc Tidehunter,Neutral,Minion,Common,0,2,1,images/naxx/Murloc_Tidehunter.png
+2,Shiv,Rogue,Spell,Common,0,0,0,images/naxx/Shiv.png
+3,Arcane Intellect,Mage,Spell,Common,0,0,0,images/naxx/Arcane_Intellect.png
+3,Charge,Warrior,Spell,Common,0,0,0,images/naxx/Charge.png
+3,Drain Life,Warlock,Spell,Common,0,0,0,images/naxx/Drain_Life.png
+3,Healing Touch,Druid,Spell,Common,0,0,0,images/naxx/Healing_Touch.png
+3,Hex,Shaman,Spell,Common,0,0,0,images/naxx/Hex.png
+3,Magma Rager,Neutral,Minion,Common,0,5,1,images/naxx/Magma_Rager.png
+3,Raid Leader,Neutral,Minion,Common,0,2,2,images/naxx/Raid_Leader.png
+3,Shadow Bolt,Warlock,Spell,Common,0,0,0,images/naxx/Shadow_Bolt.png
+3,Warsong Commander,Warrior,Minion,Common,0,2,3,images/naxx/Warsong_Commander.png
+3,Wolfrider,Neutral,Minion,Common,0,3,1,images/naxx/Wolfrider.png
+3,Animal Companion,Hunter,Spell,Common,0,0,0,images/naxx/Animal_Companion.png
+3,Dalaran Mage,Neutral,Minion,Common,0,1,4,images/naxx/Dalaran_Mage.png
+3,Fan of Knives,Rogue,Spell,Common,0,0,0,images/naxx/Fan_of_Knives.png
+3,Frost Nova,Mage,Spell,Common,0,0,0,images/naxx/Frost_Nova.png
+3,Ironforge Rifleman,Neutral,Minion,Common,0,2,2,images/naxx/Ironforge_Rifleman.png
+3,Ironfur Grizzly,Neutral,Minion,Common,0,3,3,images/naxx/Ironfur_Grizzly.png
+3,Kill Command,Hunter,Spell,Common,0,0,0,images/naxx/Kill_Command.png
+3,Razorfen Hunter,Neutral,Minion,Common,0,2,3,images/naxx/Razorfen_Hunter.png
+3,Savage Roar,Druid,Spell,Common,0,0,0,images/naxx/Savage_Roar.png
+3,Shadow Word:Death,Priest,Spell,Common,0,0,0,images/naxx/Shadow_Word_Death.png
+3,Shattered Sun Cleric,Neutral,Minion,Common,0,3,2,images/naxx/Shattered_Sun_Cleric.png
+3,Shield Block,Warrior,Spell,Common,0,0,0,images/naxx/Shield_Block.png
+3,Silverback Patriarch,Neutral,Minion,Common,0,1,4,images/naxx/Silverback_Patriarch.png
+4,Fireball,Mage,Spell,Common,0,0,0,images/naxx/Fireball.png
+4,Hammer of Wrath,Paladin,Spell,Common,0,0,0,images/naxx/Hammer_of_Wrath.png
+4,Hellfire,Warlock,Spell,Common,0,0,0,images/naxx/Hellfire.png
+4,Houndmaster,Hunter,Minion,Common,0,4,3,images/naxx/Houndmaster.png
+4,Multi-Shot,Hunter,Spell,Common,0,0,0,images/naxx/Multi_Shot.png
+4,Oasis Snapjaw,Neutral,Minion,Common,0,2,7,images/naxx/Oasis_Snapjaw.png
+4,Polymorph,Mage,Spell,Common,0,0,0,images/naxx/Polymorph.png
+4,Senjin Shieldmasta,Neutral,Minion,Common,0,3,5,images/naxx/Senjin_Shieldmasta.png
+4,Blessing of Kings,Paladin,Spell,Common,0,0,0,images/naxx/Blessing_of_Kings.png
+4,Chillwind Yeti,Neutral,Minion,Common,0,4,5,images/naxx/Chillwind_Yeti.png
+4,Consecration,Paladin,Spell,Common,0,0,0,images/naxx/Consecration.png
+4,Dragonling Mechanic,Neutral,Minion,Common,0,2,4,images/naxx/Dragonling_Mechanic.png
+4,Gnomish Inventor,Neutral,Minion,Common,0,2,4,images/naxx/Gnomish_Inventor.png
+4,Korkron Elite,Warrior,Minion,Common,0,4,3,images/naxx/Korkron_Elite.png
+4,Ogre Magi,Neutral,Minion,Common,0,4,4,images/naxx/Ogre_Magi.png
+4,Stormwind Knight,Neutral,Minion,Common,0,2,5,images/naxx/Stormwind_Knight.png
+4,Swipe,Druid,Spell,Common,0,0,0,images/naxx/Swipe.png
+4,Truesilver Champion,Paladin,Weapon,Common,0,4,2,images/naxx/Truesilver_Champion.png
+4,Water Elemental,Mage,Minion,Common,0,3,6,images/naxx/Water_Elemental.png
+4,Windspeaker,Shaman,Minion,Common,0,3,3,images/naxx/Windspeaker.png
+5,Assassination,Rogue,Spell,Common,0,0,0,images/naxx/Assassination.png
+5,Nightblade,Neutral,Minion,Common,0,4,4,images/naxx/Nightblade.png
+5,Arcanite Reaper,Warrior,Weapon,Common,0,5,2,images/naxx/Arcanite_Reaper.png
+5,Assassin's Blade,Rogue,Weapon,Common,0,3,4,images/naxx/Assassins_Blade.png
+5,Bloodlust,Shaman,Spell,Common,0,0,0,images/naxx/Bloodlust.png
+5,Booty Bay Bodyguard,Neutral,Minion,Common,0,5,4,images/naxx/Booty_Bay_Bodyguard.png
+5,Darkscale Healer,Neutral,Minion,Common,0,4,5,images/naxx/Darkscale_Healer.png
+5,Frostwolf Warlord,Neutral,Minion,Common,0,4,4,images/naxx/Frostwolf_Warlord.png
+5,Gurabashi Berserker,Neutral,Minion,Common,0,2,7,images/naxx/Gurabashi_Berserker.png
+5,Holy Nova,Priest,Spell,Common,0,0,0,images/naxx/Holy_Nova.png
+5,Starving Buzzard,Hunter,Minion,Common,0,3,2,images/naxx/Starving_Buzzard.png
+5,Stormpike Commando,Neutral,Minion,Common,0,4,2,images/naxx/Stormpike_Commando.png
+5,Tundra Rhino,Hunter,Minion,Common,0,2,5,images/naxx/Tundra_Rhino.png
+6,Boulderfist Ogre,Neutral,Minion,Common,0,6,7,images/naxx/Boulderfist_Ogre.png
+6,Reckless Rocketeer,Neutral,Minion,Common,0,5,2,images/naxx/Reckless_Rocketeer.png
+6,Archmage,Neutral,Minion,Common,0,4,7,images/naxx/Archmage.png
+6,Dread Infernal,Warlock,Minion,Common,0,6,6,images/naxx/Dread_Infernal.png
+6,Fire Elemental,Shaman,Minion,Common,0,6,5,images/naxx/Fire_Elemental.png
+6,Lord of the Arena,Neutral,Minion,Common,0,6,5,images/naxx/Lord_of_the_Arena.png
+6,Starfire,Druid,Spell,Common,0,0,0,images/naxx/Starfire.png
+6,Vanish,Rogue,Spell,Common,0,0,0,images/naxx/Vanish.png
+7,Core Hound,Neutral,Minion,Common,0,9,5,images/naxx/Core_Hound.png
+7,Flamestrike,Mage,Spell,Common,0,0,0,images/naxx/Flamestrike.png
+7,Guardian of Kings,Paladin,Minion,Common,0,5,6,images/naxx/Guardian_of_Kings.png
+7,Sprint,Rogue,Spell,Common,0,0,0,images/naxx/Sprint.png
+7,Stormwind Champion,Neutral,Minion,Common,0,6,6,images/naxx/Stormwind_Champion.png
+7,War Golem,Neutral,Minion,Common,0,7,7,images/naxx/War_Golem.png
+8,Ironbark Protector,Druid,Minion,Common,0,8,8,images/naxx/Ironbark_Protector.png
+10,Mind Control,Priest,Spell,Common,0,0,0,images/naxx/Mind_Control.png
+
+
+
+
