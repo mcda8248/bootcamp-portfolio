@@ -1,0 +1,29 @@
+header {
+	background-color:#660066;
+	width:100%;
+	height:60px;
+}
+
+
+header a {
+	color:#fff;
+	text-decoration:none;
+}
+
+header a:hover {
+	color:#6666ff;
+}
+
+header ul {
+	display:inline;
+	list-style-type:none;
+}
+
+header ul li {
+	float:left;
+	font-family: 'Kameron', 'Ubuntu', sans-serif;
+	font-size:1.3em;
+	padding:4px 4px 4px 4px;
+	margin:0% 0% 0% 9%;
+	margin-top: 10px;
+}

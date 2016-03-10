@@ -1,0 +1,55 @@
+body {
+  background-color: #13A455;
+}
+
+#createMeal {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  left: 25%;
+  right: 25%;
+  color: #5E0243;
+}
+
+#navbar {
+  width: 100%;
+  height: 70px;
+  font-size: 20pt;
+  font-family: Kameron;
+  background-color: #5E0243;
+  color: #13a455;
+  text-align: center;
+}
+span {
+  display: inline-block;
+  vertical-align: middle;
+    margin-top: 1em;
+}
+
+#mealDisplay {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#mealDisplay, th, td {
+  background-color: #13a455;
+  border: 3px solid #5E0243;
+  border-collapse: collapse;
+
+}
+
+#loadMeal {
+  display: block;
+  margin-top: 10em;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 200px;
+  height: 100px;
+  background-color: #5E0243;
+  color: #13A455;
+}
