@@ -1,0 +1,39 @@
+<div class="brand">
+ <h1>{{page.header}}</h1>
+ <p>{{page.description}}</p>
+</div>  
+
+<form class="form" id="signupForm" name = "signupForm">
+ <div class="form-group">
+  <input type="text" class="form-control form"  name="name" placeholder="Name"/>
+  </div>
+   <div class="form-group">
+  <input type="email" class="form-control"  name="email" placeholder="Email/Username"/>
+  </div>
+   <div class="form-group" id="password">
+  <input type="password" class="form-control"  name="password" placeholder="Password" />
+  </div>
+  <!-- add later?<input type="password" class="form-control"  name="confirm" placeholder="Confirm Password"/> -->
+  <div class="form-group">
+  <input type="text" class="form-control"  name="streetAddress" placeholder="Street Address"/>
+  </div>
+  <div class="form-group">
+  <input type="text" class="form-control"  name="city" placeholder="City"/>
+  </div>
+   <div class="form-group">
+  <input type="text" class="form-control" name="stateAbbrev" placeholder="State"/>
+  </div>
+   <div class="form-group">
+  <input type="text" class="form-control"  name="zipcode" placeholder="Zipcode"/>
+  </div>
+   <div class="checkbox">
+  <input type="checkbox" name="isEmployee" id="isEmployee"/>Check if you are an employee
+  </div>
+  <div class="checkbox">
+  <input type="checkbox" name="isBilling" id="isBilling" checked/>Same as billing?
+
+  </div>
+  <input class="btn btn-info" id="submit" type="button" value="Create Account"/>
+  <div id="billing"></div>
+</form>
+{{{page.script}}}

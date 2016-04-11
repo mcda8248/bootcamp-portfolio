@@ -1,0 +1,24 @@
+{
+  "name": "metaclothingjavascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "bootstrap": "^3.3.6",
+    "cookie-parser": "^1.4.1",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "express-mailer": "^0.3.0",
+    "express-session": "^1.13.0",
+    "handlebars": "^4.0.5",
+    "session": "^0.1.0"
+  },
+  "description": ""
+}

@@ -1,0 +1,304 @@
+ /**************** DEFAULTS **** DEBUGS *************************************************/
+div{
+    border:0px solid black;
+}
+
+
+/**************** CLASSES **************************************************************/
+ .index-header{
+ 	padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    text-shadow: 1px 1px grey;
+    background: url(img/background.jpg) no-repeat center center;
+    background-size: cover;
+ 	border-radius: 5px;
+ }
+
+ .index-header h1{
+ 	font-family: cursive;
+ 	font-size: 72px;
+ }
+
+ .index-header p{
+ 	padding-top: 20px;
+ 	font-size: 24px;
+ 	border: 1px black;
+ }
+.index{
+    text-align: center;
+}
+
+ .store{
+ 	padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+    text-align: center;
+    color: #7fc7fd;
+    text-shadow: 1px 1px black;
+    background: url(img/store.jpg) no-repeat center center;
+    background-size: cover;
+ 	border-radius: 5px;
+ }
+
+  .store h1{
+ 	font-family: cursive;
+ 	font-size: 72px;
+ }
+
+ .store p{
+ 	padding-top: 20px;
+ 	font-size: 24px;
+ 	border: 1px black;
+ }
+ .about-header{
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+    text-align: center;
+    color: #7fc7fd;
+    font-size: 48px;
+    text-shadow: 1px 1px black;
+    background: url(img/about.jpg) no-repeat, center, center;
+    background-size: cover;
+    border-radius: 5px;
+ }
+ .about-header p{
+    margin-left: 5%; 
+    color: #f8f8f8;
+    padding-top: 10px;
+    font-size: 24px;
+    border: 1px black;
+    width: 90%;
+
+ }
+ .about{
+    margin-top: 20px;
+ }
+ .about p{
+    padding-top: 20px;
+    font-size: 30px;
+    border: 1px black;
+ }
+
+
+ .brand{
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+    text-align: center;
+    color: #7fc7fd;
+    text-shadow: 1px 1px grey;
+    background: url(img/brand.jpg) no-repeat center center;
+    background-size: cover;
+    border-radius: 5px;
+ }
+ .brand h1{
+    font-family: cursive;
+    font-size: 72px;
+ }
+
+ .brand p{
+    padding-top: 20px;
+    font-size: 24px;
+    border: 1px black;
+ }
+ .storenavebar{
+    background-color: #5bc0de;
+    width: 100%;
+    color: grey;
+ }
+ .storenavbar ul{
+    background-color: #5bc0de;
+    color: #f4f4f4;
+    width: 100%;
+
+ }
+ .storenavbar li{
+    padding-top: 20px;
+    padding-left: 20px;
+    cursor: default;
+ }
+ .storenavbar li>a{
+    margin: 0;
+ }
+ .storenavbar li:hover{
+    color: black;
+}
+.category{
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+    text-align: center;
+    color: #7fc7fd;
+    text-shadow: 1px 1px grey;
+    background: url(img/category.jpg) no-repeat center center;
+    background-size: cover;
+    border-radius: 5px;
+}
+.navbar{
+    background-color: #5bc0de;
+}
+.category h1{
+    font-family: cursive;
+    font-size: 72px;
+ }
+ .category p{
+    padding-top: 20px;
+    font-size: 24px;
+    border: 1px black;
+ }
+ .invalid{
+    color: red;
+ }
+.form{
+    margin-top: 1%;
+}
+.login{
+    padding-top: 100px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 100px;
+    text-align: center;
+    color: #7fc7fd;
+    text-shadow: 1px 1px grey;
+    background: url(img/login.jpg) no-repeat top center;
+    background-size: cover;
+    border-radius: 5px;
+}
+.login h1{
+    font-family: cursive;
+    font-size: 72px;
+}
+.address{
+    padding-top: 100px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 100px;
+    text-align: center;
+    color: #7fc7fd;
+    text-shadow: 1px 1px grey;
+    background: url(img/address.jpg) no-repeat center center;
+    background-size: cover;
+    border-radius: 5px;
+}
+.address h1{
+    font-family: cursive;
+    font-size: 72px;
+}
+
+.contact{
+    padding-top: 100px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 100px;
+    text-align: center;
+    color: #7fc7fd;
+    text-shadow: 1px 1px grey;
+    background: url(img/contact.jpg) no-repeat center center;
+    background-size: cover;
+    border-radius: 5px;
+}
+.contact h1{
+    font-family: cursive;
+    font-size: 72px;
+}
+ .contact p{
+    padding-top: 20px;
+    font-size: 24px;
+    border: 1px black;
+ }
+ .map{
+    border-radius: 10px;
+ }
+ .image{
+    height: 170px;
+    width: 190px;
+ }
+table{
+    width: 100%;
+}   
+td{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+footer{
+    position: fixed;
+}
+ /************************ ID's  **********************************************************************************************/
+
+ #bodyDiv{
+    padding:5%;
+ }
+ #bioPic{
+   border:1px solid black;  
+    max-height: 70px;
+    clear: both;
+ }
+ #aboutUl{
+    list-style: none;
+ }
+ #storeContent{
+    padding:2%;
+
+ }
+ #storeByBrand{
+    border:0px solid black;
+    width:31%;
+    margin-left:33%;
+
+
+ }
+ #storeByCategory{
+    border:0px solid black;
+    width:31%;
+    margin-left:0%;
+    margin-top:-22.5%;
+ }
+ #storeByPrice{
+    border:0px solid black;
+    width:31%;
+    margin-left:66%;
+    margin-top:-11.5%;
+
+ }
+
+ #mapDiv{
+    float: right;
+    margin-right: 1%;
+ }
+
+ #mailContact{
+    float: left;
+ }
+ 
+#metaClothing{
+    font-family: Florence, cursive;
+}
+#cart{
+    height: 16px;
+}
+#cookieCart{
+    margin-top: 10px;
+    margin-left: -15px;
+}
+
+#signUp{
+    margin-bottom: 5px;
+}
+
+#aboutUs{
+    margin-bottom: 6px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
